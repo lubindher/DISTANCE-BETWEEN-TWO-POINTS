@@ -16,8 +16,8 @@ End the program
 ### PROGRAM:
 ```
 #Program to find the distance between two points.
-#Developed by:Anusha R 
-#RegisterNumber:21005561
+#Developed by:Lubindher
+#RegisterNumber:22009019
 import numpy as np
 l1=[10,6]
 l2=[4,2]
@@ -28,4 +28,7 @@ print("{:.2f}".format(distance))
 ### OUTPUT:
 
 
+
 ### RESULT:
+
+Thus finding of distance between two points are successfully executed
