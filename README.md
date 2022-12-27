@@ -8,7 +8,9 @@ Import the numpy module to use the built-in functions for calculation
 ### Step 2:
 Mention the coordinates as given
 ### Step 3:
-Substitute the values in the distance formula formula
+Substitute the values in the distance formula
+![output](./formula.JPG)
+
 ### Step 4:
 Assign the values of coordinates in the formula
 ### Step 5:
@@ -26,6 +28,9 @@ print("{:.2f}".format(distance))
 
 ```
 ### OUTPUT:
+
+![output](./Screenshot%202022-12-27%20082316.png)
+
 
 
 
